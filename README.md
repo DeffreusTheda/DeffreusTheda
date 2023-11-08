@@ -2,7 +2,8 @@
 # Heya!
 - You can call me Theda
 - I'm a young boy who is passionate about IT in general
-- I want my own Raspberry Pi
+<br>
+<!-- ![Deffreus's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeffreusTheda) -->
 
 ### Things I'm Interested in...
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)<br>
@@ -42,10 +43,13 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white):    deffreus<br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white):    thedadeffreus@gmail.com<br>
 ![BattleNet](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF):    (TBA)<br>
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white):    (TBA)<br>
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199192504677):    (TBA)<br>
 ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white):    (TBA)<br>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white):    (TBA)<br>
-![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white):    (TBA)<br>
+![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white):    (TBA)<br><br>
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=DeffreusTheda.DeffreusTheda)<br> -->
+![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 
 <!---
 DeffreusTheda/DeffreusTheda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
