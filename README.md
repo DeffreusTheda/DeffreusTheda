@@ -1,8 +1,10 @@
 ![Aesthetic Twitter Header](https://github.com/DeffreusTheda/DeffreusTheda/assets/147963726/569ddc0c-936c-4190-b829-00badb48fb99)<br>
 # Heya!
-- You can call me Theda
-- I'm a young boy who is passionate about IT in general
-<br>
+- 👋 You can call me Theda
+- 👓 Know the basic of C++, Java, Python
+- 🍼 Novice Web Developer
+- 💻 I mainly use Kali Linux
+- 🛡️ I'm interested in Cyber Security<br>
 <!-- ![Deffreus's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeffreusTheda) -->
 
 ### Things I'm Interested in...
@@ -46,8 +48,112 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199192504677)<br>
 ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<br><br>
-
+![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<br><br><br><br>
+<!-- <html>
+  <head>
+    <style>
+      body {
+        padding-left: 30%;
+        padding-top: 5%;
+      }
+      .container {
+        width: 200px;
+        height: 200px;
+        position: relative;
+        -webkit-perspective: 1000px;
+        -moz-perspective: 1000px;
+      }
+      #cube {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        -webkit-transform-style: preserve-3d;
+        -webkit-animation: rotatecube 10s infinite;
+        -moz-transform-style: preserve-3d;
+        -moz-animation: rotatecube 10s infinite;
+      }
+      #cube div {
+        width: 200px;
+        height: 200px;
+        display: block;
+        position: absolute;
+        border: none;
+        line-height: 200px;
+        text-align: center;
+        font-size: 50px;
+        font-weight: bold;
+      }
+      @-webkit-keyframes rotatecube {
+        0% { -webkit-transform: rotateX(0deg) rotateY(360deg) rotateZ(90deg); }
+        25% { -webkit-transform: rotateX(90deg) rotateY(270deg) rotateZ(180deg); }
+        50% { -webkit-transform: rotateX(180deg) rotateY(180deg) rotateZ(0deg); }
+        75% { -webkit-transform: rotateX(270deg) rotateY(90deg) rotateZ(360deg); }
+        100% { -webkit-transform: rotateX(360deg) rotateY(0deg) rotateZ(270deg); }
+      }
+      @-moz-keyframes rotatecube {
+        0% { -moz-transform: rotateX(0deg) rotateY(360deg) rotateZ(90deg); }
+        25% { -moz-transform: rotateX(90deg) rotateY(270deg) rotateZ(180deg); }
+        50% { -moz-transform: rotateX(180deg) rotateY(180deg) rotateZ(0deg); }
+        75% { -moz-transform: rotateX(270deg) rotateY(90deg) rotateZ(360deg); }
+        100% { -moz-transform: rotateX(360deg) rotateY(0deg) rotateZ(270deg); }
+      }
+      .front {
+        background: rgba(255,0,0,.5);
+      }
+      .back {
+        background: rgba(0,255,0,.5);
+      }
+      .right {
+        background: rgba(0,0,255,.5);
+      }
+      .left {
+        background: rgba(0,255,255,.5);
+      }
+      .top {
+        background: rgba(255,0,255,.5);
+      }
+      .bottom {
+        background: rgba(255,255,0,.5);
+      }
+      #cube .front  {
+        -webkit-transform: rotateY(0deg ) translateZ( 100px );
+        -moz-transform: rotateY( 0deg ) translateZ( 100px );
+      }
+      #cube .back {
+        -webkit-transform: rotateX( 180deg ) translateZ( 100px );
+        -moz-transform: rotateX( 180deg ) translateZ( 100px );
+      }
+      #cube .right  {
+        -webkit-transform: rotateY(  90deg ) translateZ( 100px );
+        -moz-transform: rotateY(  90deg ) translateZ( 100px );
+      }
+      #cube .left   {
+        -webkit-transform: rotateY( -90deg ) translateZ( 100px );
+        -moz-transform: rotateY( -90deg ) translateZ( 100px );
+      }
+      #cube .top    {
+        -webkit-transform: rotateX(  90deg ) translateZ( 100px );
+        -moz-transform: rotateX(  90deg ) translateZ( 100px );
+      }
+      #cube .bottom {
+        -webkit-transform: rotateX( -90deg ) translateZ( 100px );
+        -moz-transform: rotateX( -90deg ) translateZ( 100px );
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div id="cube">
+        <div class="front">1</div>
+        <div class="back">2</div>
+        <div class="right">3</div>
+        <div class="left">4</div>
+        <div class="top">5</div>
+        <div class="bottom">6</div>
+      </div>
+    </div>
+  </body>
+</html> -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=DeffreusTheda.DeffreusTheda)<br> -->
 <!-- ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow) -->
 
