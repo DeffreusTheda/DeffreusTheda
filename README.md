@@ -1,7 +1,8 @@
-![Header](https://github.com/DeffreusTheda/DeffreusTheda/assets/147963726/569ddc0c-936c-4190-b829-00badb48fb99)<br>
+![DeffreusTheda_Banner2](https://github.com/DeffreusTheda/DeffreusTheda/assets/147963726/efb73163-a919-4d0e-ba7c-1788a7612603)<br>
 # Heya!
 - 👋 ・ Call me Theda
-- 🧐 ・ Programming languages tourist: Galaxy -> Java -> C++ -> HTML+CSS+JS -> Python -> Kotlin (Currently as of 10 Dec, 23)
+- 🧐 ・ Programming languages tourist:<br>
+Galaxy -> Java -> C++ -> HTML+CSS+JS -> Python -> Kotlin (Currently as of 10 Dec, 23)
 - 🍼 ・ Novice at Web Dev & Competitive Programming
 - 💻 ・ Coping because my main OS is Mac instead of Linux
 - 🛡 ・ Interested in Cyber Security
