@@ -1,12 +1,10 @@
 ![DeffreusTheda_Banner2](https://github.com/DeffreusTheda/DeffreusTheda/assets/147963726/efb73163-a919-4d0e-ba7c-1788a7612603)<br>
 # Heya!
-- 👋 ・ Call me Theda
-- 🧐 ・ Programming languages tourist:<br>
+- 👋 ・ You can call me Theda!
+- 🚌 ・ Programming languages tourist:<br>
 Galaxy -> Java -> C++ -> HTML+CSS+JS -> Python -> Kotlin (Currently as of 10 Dec, 23)
-- 🍼 ・ Novice at Web Dev & Competitive Programming
-- 💻 ・ Coping because my main OS is Mac instead of Linux
 - 🛡 ・ Interested in Cyber Security
-- 🎓 ・ Want to be a Penetration Tester
+- 🎓 ・ Want to be a Penetration Tester & Software Engineer
 
 ### Programming Languages I Know...
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.sololearn.com/certificates/CC-HZT0GN5W)
