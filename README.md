@@ -1,10 +1,10 @@
 ![DeffreusTheda_Banner2](https://github.com/DeffreusTheda/DeffreusTheda/assets/147963726/efb73163-a919-4d0e-ba7c-1788a7612603)<br>
 # Heya!
-- 👋 ・ You can call me Theda!
+- 👋 ・ You can call me Deff!
 - 🚌 ・ Programming languages tourist:<br>
-Galaxy -> Java -> C++ -> HTML+CSS+JS -> Python -> Kotlin (Currently as of 10 Dec, 23)
-- 🛡 ・ Interested in Cyber Security
-- 🎓 ・ Want to be a Penetration Tester & Software Engineer
+Galaxy (SC2) -> Java -> C++ -> HTML & CSS & JS -> Python -> Kotlin -> Java (20/12/2023) // May it loop?
+- 🛡 ・ Interested in Cyber Security!
+- 🎓 ・ Want to be a Penetration Tester & Software Engineer.
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.sololearn.com/certificates/CC-HZT0GN5W)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.sololearn.com/certificates/CC-AUOPPNW)
