@@ -11,8 +11,8 @@
 <h2 align="center">Areas of Strength</h2>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;
+  <a href="https://github.com/DeffreusTheda/CoffeeShopProject"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;</a>
+  <a href="https://github.com/DeffreusTheda/Competitive-Programming"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;</a>
 </div>
 
 <br>
@@ -69,7 +69,7 @@
 <h2 align="center">Contact Me</h2>
 
 <div align="center">
-  <a href="https://github.com/DeffreusTheda"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github Profile" alt="Github"></a>
+  <a href="https://github.com/DeffreusTheda/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github Profile" alt="Github"></a>
   <a href="https://discordapp.com/users/759198715159511070"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord Profile" alt="Discord"></a>
   <a href="mailto:d3ffr3u5@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" title="Proton Mail" alt="Proton"></a>
 </div>
