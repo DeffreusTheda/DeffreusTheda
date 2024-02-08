@@ -6,7 +6,7 @@
 
 <h1 align="center">Hello, World!</h1>
 
-<p align="center">I'm a driven programmer with a passion for learning, developing competence since 2023.</p>
+<p align="center">I'm a young and aspiring programmer with broad knowledge of back-end languages, specializing in C++ and Java</p>
 
 <h2 align="center">Areas of Strength</h2>
 
