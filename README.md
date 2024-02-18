@@ -20,9 +20,9 @@
 <h2 align="center">The Person Behind the Username</h2>
 
 <div align="center">
-👋 ・ A 16 Y/o IB Computer Science HL student<br>
-💌 ・ Coding and CTF as hobby<br>
-🛡 ・ Interested in Cyber Security and Software Engineering
+📔 ・ A 16 Y/o IB Computer Science HL student<br>
+💌 ・ <s>Arch</s> Linux <s>sectarian</s> enthusiast<br>
+🛡 ・ Pursuing career in Cyber Security
 </div>
 
 <hr>
@@ -41,11 +41,9 @@
 <h2 align="center">What fuels my work</h2>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Opera_GX_Icon.svg" title="Opera GX" alt="Opera" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="VIM" alt="VIM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Linux Debian" alt="Debian" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://iconape.com/wp-content/files/zd/370920/svg/370920.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" title="IntelliJ IDEA Ultimate" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" title="Neovim" alt="Neovim" width="40" height="40"/>
 </div>
@@ -66,7 +64,7 @@
 
 <br>
 
-<h2 align="center">Contact Me</h2>
+<h2 align="center">Whatever Else</h2>
 
 <div align="center">
   <a href="https://github.com/DeffreusTheda/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github Profile" alt="Github"></a>
