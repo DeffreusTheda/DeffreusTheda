@@ -22,7 +22,7 @@
 <div align="center">
 📔 ・ A 16 Y/o IB Computer Science HL student<br>
 💌 ・ <s>Arch</s> Linux <s>sectarian</s> enthusiast<br>
-🛡 ・ Pursuing career in Cyber Security
+🛡 ・ Pursuing career in Cyber Security (especially RE)
 </div>
 
 <hr>
