@@ -3,7 +3,6 @@
 ## About Me!
 
 I'm a jack of all trades tech-savvy with experience in multiple programming languages and cybersecurity tools.
-Thirst for new things to learn.
 
 ## My Previous Works
 
@@ -11,10 +10,15 @@ Thirst for new things to learn.
 
 ## Skills & Experiences
 
-- Proficiency in Linux
-- Well-versed in C, Java, and Python
-- Experience with fundamental cybersec tools and methodologies
+- Proficiency in Linux CLI
+- Well-versed in C, Python, and Java
+- Play CTFs every month, Solo
 
 ## Certificates
 
 - WIP
+
+## Books Read
+
+- OTW (2018). <i>Linux Basic for Hackers</i>
+- Andriesse, D. (2018). <i>Practical Binary Analysis</i>
