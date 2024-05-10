@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/DeffreusTheda/CoffeeShopProject"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;</a>
   <a href="https://github.com/DeffreusTheda/Competitive-Programming"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;</a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="80" height="80"/>&nbsp;
 </div>
 
 <br>
