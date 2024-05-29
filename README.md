@@ -6,15 +6,34 @@
 
 <h1 align="center">Heya!</h1>
 
-<p align="center">I code things in Java, Python, and C++ to a certain extent when I have free time. Mostly just application and scripts for myself.</p>
+<p align="center">Serial starter. Tech geek. Impulsive. Shy.</p>
+<p align="center">I am that kind of girl.</p><br>
+<p align="center">I <s>open source</s> publicize some of my projects. Check those out!</p><br>
 
-<h2 align="center">Areas of Strength</h2>
+<h2 align="center">Languages</h2>
 
-<div align="center">
-  <a href="https://github.com/DeffreusTheda/CoffeeShopProject"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;</a>
-  <a href="https://github.com/DeffreusTheda/Competitive-Programming"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;</a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="80" height="80"/>&nbsp;
-</div>
+<table align="center">
+  <tr>
+    <th>
+      <a href="https://github.com/DeffreusTheda/CoffeeShopProject"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;</a>
+    </th>
+    <th>
+      <a href="https://github.com/DeffreusTheda/Competitive-Programming"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;</a>
+    </th>
+    <th>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="80" height="80"/>&nbsp;
+    </th>
+    <th>
+      bash
+    </th>
+  </tr>
+  <tr>
+    <td>6/2023 - Now</td>
+    <td>6/2023 - 2/2024</td>
+    <td>11/2023 - Now</td>
+    <td>2/2024 - Now</td>
+  </tr>
+</table>
 
 <br>
 
@@ -34,7 +53,7 @@
   <a href="https://github.com/DeffreusTheda"><img src="http://github-readme-streak-stats.herokuapp.com?user=DeffreusTheda&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=4681FF&stroke=47C2EB&ring=3E18EB&currStreakNum=4681FF&sideNums=4681FF&currStreakLabel=4AE3EB&sideLabels=4AE3EB&dates=FFFFFF&excludeDaysLabel=EB0000" alt="GitHub Streak"/></a><br>
   -->
   <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeffreusTheda&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=4681FF&text_color=fff&custom_title=Languages%20by%20Percentage" title="Language Statictics" alt="TopLangs"/></a>
-  <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deffreus&layout=compact&custom_title=Languages%20by%20Time&theme=transparent&title_color=FFFFFF&icon_color=4681FF&text_color=fff&hide_border=true" alt="WakaTimeStats"/></a>
+  <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deffreus&layout=compact&langs_count=8&custom_title=Languages%20by%20Time&theme=transparent&title_color=FFFFFF&icon_color=4681FF&text_color=fff&hide_border=true" alt="WakaTimeStats"/></a>
 </div>
 
 <hr>
