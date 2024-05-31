@@ -10,10 +10,10 @@
 <p align="center">I am that kind of girl.</p><br>
 <p align="center">I <s>open source</s> publicize some of my projects. Check those out!</p><br>
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Programming Languages</h2>
 
 <table align="center">
-  <tr>
+  <tr align="center">
     <th>
       <a href="https://github.com/DeffreusTheda/CoffeeShopProject"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;</a>
     </th>
@@ -21,16 +21,38 @@
       <a href="https://github.com/DeffreusTheda/Competitive-Programming"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;</a>
     </th>
     <th>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="80" height="80">&nbsp;
     </th>
     <th>
-      bash
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80">&nbsp;
     </th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>6/2023 - Now</td>
     <td>6/2023 - 2/2024</td>
     <td>11/2023 - Now</td>
+    <td>2/2024 - Now</td>
+  </tr>
+</table>
+
+<h2 align="center">Operating System</h2>
+
+<table align="center">
+  <tr align="center">
+    <th>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" title="macOS" alt="macOS" height="80"/>&nbsp;
+    </th>
+    <th>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="80" height="80"/>&nbsp;
+    </th>
+    <th>
+      <img src="https://github.com/AsahiLinux/artwork/blob/main/logos/svg/AsahiLinux_logomark.svg" title="Asahi" alt="Asahi" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="Fedora" alt="Fedora" width="80" height="80"/>&nbsp;
+    </th>
+  </tr>
+  <tr align="center">
+    <td>6/2023 - Now</td>
+    <td>12/2023 - 2/2024</td>
     <td>2/2024 - Now</td>
   </tr>
 </table>
@@ -41,8 +63,8 @@
 
 <div align="center">
 📔 ・ A 16 Y/o IB Computer Science HL student<br>
-💌 ・ <s>Arch</s> Linux <s>sectarian</s> enthusiast<br>
-🛡 ・ Pursuing career in Cyber Security (RE oriented)
+💌 ・ Unix enthusiast<br>
+🛡 ・ CTF Hobbyist (Solo)
 </div>
 
 <hr>
@@ -62,25 +84,12 @@
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" title="Neovim" alt="Neovim" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" title="IntelliJ IDEA Ultimate" alt="IntelliJ IDEA" width="40" height="40"/>
-</div>
-
-<h2 align="center">Can Read</h2>
-
-<div align="center">
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
 
-<h2 align="center">Whatever Else</h2>
+<h2 align="center">Touch me.</h2>
 
 <div align="center">
   <a href="https://github.com/DeffreusTheda/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github Profile" alt="Github"></a>
