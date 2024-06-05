@@ -80,7 +80,7 @@
 
 <hr>
 
-<h2 align="center">What fuels my work</h2>
+<h2 align="center">All I need</h2>
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" title="Neovim" alt="Neovim" width="40" height="40"/>
