@@ -94,5 +94,5 @@
 <div align="center">
   <a href="https://github.com/DeffreusTheda/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github Profile" alt="Github"></a>
   <a href="https://discordapp.com/users/759198715159511070"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord Profile" alt="Discord"></a>
-  <a href="mailto:d3ffr3u5@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" title="Proton Mail" alt="Proton"></a>
+  <a href="mailto:thedadeffreus@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" title="Proton Mail" alt="Proton"></a>
 </div>
