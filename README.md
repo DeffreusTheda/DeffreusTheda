@@ -6,9 +6,16 @@
 
 <h1 align="center">Heya!</h1>
 
-<p align="center">Serial starter. Tech geek. Impulsive. Shy.</p>
-<p align="center">I am that kind of girl.</p><br>
-<p align="center">I <s>open source</s> publicize some of my projects. Check those out!</p><br>
+<div align="center">
+📔 ・ A 16 Y/o IB Computer Science HL student<br>
+💌 ・ Unix enthusiast<br>
+🚩 ・ CTF Hobbyist (Solo)
+🛡️ ・ sysadmin/pentester wannabe
+</div>
+
+<br>
+
+<p align="center">I open source some of my projects. Check those out!</p><br>
 
 <h2 align="center">Programming Languages</h2>
 
@@ -56,16 +63,6 @@
     <td>2/2024 - Now</td>
   </tr>
 </table>
-
-<br>
-
-<h2 align="center">The Person Behind the Username</h2>
-
-<div align="center">
-📔 ・ A 16 Y/o IB Computer Science HL student<br>
-💌 ・ Unix enthusiast<br>
-🛡 ・ CTF Hobbyist (Solo)
-</div>
 
 <hr>
 
