@@ -9,7 +9,7 @@
 <div align="center">
 📔 ・ A 16 Y/o IB Computer Science HL student<br>
 💌 ・ Unix enthusiast<br>
-🚩 ・ CTF Hobbyist (Solo)
+🚩 ・ CTF Hobbyist (Solo)<br>
 🛡️ ・ sysadmin/pentester wannabe
 </div>
 
