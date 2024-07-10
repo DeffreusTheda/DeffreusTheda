@@ -8,8 +8,8 @@
 
 <div align="center">
 📔 ・ A 16 Y/o IB Computer Science HL student<br>
-💌 ・ Unix enthusiast<br>
-🚩 ・ CTF Hobbyist (Solo)<br>
+💌 ・ Linux enthusiast<br>
+🚩 ・ CTF Hobbyist<br>
 🛡️ ・ sysadmin/pentester wannabe
 </div>
 
@@ -58,7 +58,7 @@
     </th>
   </tr>
   <tr align="center">
-    <td>6/2023 - Now</td>
+    <td>6/2023 - 7/2024</td>
     <td>12/2023 - 2/2024</td>
     <td>2/2024 - Now</td>
   </tr>
