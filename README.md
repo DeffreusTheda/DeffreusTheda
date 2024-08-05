@@ -4,7 +4,7 @@
 
 <!-- [![GitHub Follow](https://img.shields.io/github/followers/DeffreusTheda?style=social)](https://github.com/DeffreusTheda) -->
 
-<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1177976974887620688.gif" height="32"> Heya!</h1>
+<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1177976974887620688.gif" height="32" width="32"> Heya!</h1>
 
 <div align="center">
 <img src="https://cdn.discordapp.com/emojis/1155602041947820114.webp" height="16"> ・ A 16 Y/o IBDP Computer Science HL student<br>
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-<h2 align="center">My system <img src="https://cdn.discordapp.com/emojis/880465574730297344.gif" height="24"></h2>
+<h2 align="center">My system <img src="https://cdn.discordapp.com/emojis/880465574730297344.gif" height="24" width="24"></h2>
 
 <table align="center">
   <tr align="center">
@@ -79,7 +79,7 @@
 
 <hr>
 
-<h2 align="center"><img src="https://cdn.discordapp.com/emojis/860569859627417620.webp" height="24"> BFFs</h2>
+<h2 align="center"><img src="https://cdn.discordapp.com/emojis/860569859627417620.webp" height="24" width="24"> BFFs</h2>
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" title="Neovim" alt="Neovim" width="40" height="40"/>
@@ -88,7 +88,7 @@
 
 <br>
 
-<h2 align="center">Poke me <img src="https://cdn.discordapp.com/emojis/747234665559097384.webp" height="24"></h2>
+<h2 align="center">Poke me <img src="https://cdn.discordapp.com/emojis/747234665559097384.webp" height="24" width="24"></h2>
 
 <div align="center">
   <a href="https://github.com/DeffreusTheda/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github Profile" alt="Github"></a>
