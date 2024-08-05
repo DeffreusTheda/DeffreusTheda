@@ -73,8 +73,8 @@
 <div align="center">
   <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api?username=DeffreusTheda&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true&theme=transparent&hide_border=true&title_color=f5d5d2&icon_color=e0a6ab&text_color=fff&rank_icon=github"/></a>
   <a href="https://github.com/DeffreusTheda"><img src="http://github-readme-streak-stats.herokuapp.com?user=DeffreusTheda&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=e0a6ab&stroke=ba75e2&ring=f4c780&currStreakNum=bf5054&sideNums=bf5054&currStreakLabel=f5d5d2&sideLabels=f5d5d2&dates=FFFFFF&excludeDaysLabel=EB0000" alt="GitHub Streak"/></a><br>
-  <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeffreusTheda&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=4681FF&text_color=fff&custom_title=Languages%20by%20Percentage" title="Language Statictics" alt="TopLangs"/></a>
-  <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deffreus&layout=compact&langs_count=8&custom_title=Languages%20by%20Time&theme=transparent&title_color=FFFFFF&icon_color=4681FF&text_color=fff&hide_border=true" alt="WakaTimeStats"/></a>
+  <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeffreusTheda&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=f5d5d2&icon_color=4681FF&text_color=fff&custom_title=Languages%20by%20Percentage" title="Language Statictics" alt="TopLangs"/></a>
+  <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deffreus&layout=compact&langs_count=8&custom_title=Languages%20by%20Time&theme=transparent&title_color=f5d5d2&icon_color=4681FF&text_color=fff&hide_border=true" alt="WakaTimeStats"/></a>
 </div>
 
 <hr>
