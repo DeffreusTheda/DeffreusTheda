@@ -9,7 +9,7 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/emojis/1155602041947820114.webp" height="16"> ・ A 16 Y/o IBDP Computer Science HL student<br>
 <img src="https://asahilinux.org/img/AsahiLinux_logomark.svg" height="16"> ・ Linux enthusiast: <s>Fedora</s> Asahi Linux!<br>
-<img src="https://cdn.discordapp.com/emojis/1037114798497865758.webp" height="16"> ・ CTF Hobbyist: Rev > Forensic > Crypt<br>
+<img src="https://cdn.discordapp.com/emojis/1037114798497865758.webp" height="16"> ・ CTF Hobbyist: Rev > Forensic > Pwn<br>
 <img src="https://cdn.discordapp.com/emojis/1037774961676398672.webp" height="16"> ・ sysadmin/pentester wannabe (skip IT helpdesk <img src="https://cdn.discordapp.com/emojis/1190230683579330612.webp" height="16" alt="pls">)
 </div>
 
@@ -28,7 +28,7 @@
       <a href="https://github.com/DeffreusTheda/Competitive-Programming"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;</a>
     </th>
     <th>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="80" height="80">&nbsp;
+      <a href="https://github.com/DeffreusTheda/CTF"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="80" height="80">&nbsp;</a>
     </th>
     <th>
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80">&nbsp;
@@ -64,10 +64,6 @@
   </tr>
 </table>
 
-<div align="center">
-  Wayland/Hyprland, kitty/zsh, Brave, swww + mpvpaper, waybar + pywal + swaync, rofi, cmus + cava + playerctl, pypr, swappy
-</div>
-
 <hr>
 
 <div align="center">
@@ -83,7 +79,11 @@
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" title="Neovim" alt="Neovim" width="40" height="40"/>
+  <img src="https://www.lazyvim.org/img/icon-dark.svg" title="Neovim" alt="Neovim" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/>
+  <img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" title="kitty" alt="kitty" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
