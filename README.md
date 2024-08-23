@@ -84,6 +84,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/>
   <img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" title="kitty" alt="kitty" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Wayland_Logo.svg" title="wayland" alt="wayland" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DeffreusTheda/PublicFiles/blob/main/logo.png" title="hyprland" alt="hyprland" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
