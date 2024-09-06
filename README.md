@@ -78,8 +78,7 @@
 <h2 align="center"><img src="https://cdn.discordapp.com/emojis/860569859627417620.webp" height="24" width="24"> BFFs</h2>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" title="Neovim" alt="Neovim" width="40" height="40"/>
-  <img src="https://www.lazyvim.org/img/icon-dark.svg" title="Neovim" alt="Neovim" width="40" height="40"/>
+  <img src="https://helix-editor.com/logo.svg" title="Helix" alt="Helix" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/>
