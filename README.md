@@ -10,14 +10,14 @@
 <img src="https://cdn.discordapp.com/emojis/1155602041947820114.webp" height="16"> ・ A 16 Y/o IBDP Computer Science HL student<br>
 <img src="https://asahilinux.org/img/AsahiLinux_logomark.svg" height="16"> ・ Linux enthusiast: <s>Fedora</s> Asahi Linux!<br>
 <img src="https://cdn.discordapp.com/emojis/1037114798497865758.webp" height="16"> ・ CTF Hobbyist: Rev > Forensic > Pwn<br>
-<img src="https://cdn.discordapp.com/emojis/1037774961676398672.webp" height="16"> ・ sysadmin/pentester wannabe (skip IT helpdesk <img src="https://cdn.discordapp.com/emojis/1190230683579330612.webp" height="16" alt="pls">)
+<img src="https://cdn.discordapp.com/emojis/1037774961676398672.webp" height="16"> ・ sysadmin/soc wannabe (skip IT helpdesk <img src="https://cdn.discordapp.com/emojis/1190230683579330612.webp" height="16" alt="pls">)
 </div>
 
 <br>
 
 <p align="center">I open source some of my projects. Check those out!</p><br>
 
-<h2 align="center"><img src="https://cdn.discordapp.com/emojis/750352716399902763.gif" height="24"> Programming Languages I am Fluent In</h2>
+<h2 align="center"><img src="https://cdn.discordapp.com/emojis/750352716399902763.gif" height="24"></h2>
 
 <table align="center">
   <tr align="center">
@@ -67,7 +67,7 @@
 <hr>
 
 <div align="center">
-  <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api?username=DeffreusTheda&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true&theme=transparent&hide_border=true&title_color=f5d5d2&icon_color=e0a6ab&text_color=fff&rank_icon=github"/></a>
+  <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api?username=DeffreusTheda&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true&theme=transparent&hide_border=true&title_color=f5d5d2&icon_color=e0a6ab&text_color=fff&rank_icon=default"/></a>
   <a href="https://github.com/DeffreusTheda"><img src="http://github-readme-streak-stats.herokuapp.com?user=DeffreusTheda&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=e0a6ab&stroke=ba75e2&ring=f4c780&currStreakNum=bf5054&sideNums=bf5054&currStreakLabel=f5d5d2&sideLabels=f5d5d2&dates=FFFFFF&excludeDaysLabel=EB0000" alt="GitHub Streak"/></a><br>
   <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeffreusTheda&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=f5d5d2&icon_color=4681FF&text_color=fff&custom_title=Languages%20by%20Percentage" title="Language Statictics" alt="TopLangs"/></a>
   <a href="https://github.com/DeffreusTheda"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deffreus&layout=compact&langs_count=8&custom_title=Languages%20by%20Time&theme=transparent&title_color=f5d5d2&icon_color=4681FF&text_color=fff&hide_border=true" alt="WakaTimeStats"/></a>
