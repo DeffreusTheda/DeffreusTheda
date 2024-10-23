@@ -17,7 +17,7 @@
 
 <p align="center">I open source some of my projects. Check those out!</p><br>
 
-<h2 align="center"><img src="https://cdn.discordapp.com/emojis/750352716399902763.gif" height="24"></h2>
+<h2 align="center"><img src="https://cdn.discordapp.com/emojis/750352716399902763.gif" height="24"> Languages I work with</h2>
 
 <table align="center">
   <tr align="center">
