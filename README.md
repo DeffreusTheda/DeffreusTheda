@@ -4,18 +4,18 @@
 
 <!-- [![GitHub Follow](https://img.shields.io/github/followers/DeffreusTheda?style=social)](https://github.com/DeffreusTheda) -->
 
-<h1 align="center"><img src="https://cdn.discordapp.com/emojis/1177976974887620688.gif" height="32" width="32"> Heya!</h1>
+<h1 align="center"><img src="https://transmemes.netlify.app/~media/menhera-chan/transparent/28070588.png" height="32" width="32"> Heya!</h1>
 
 <div align="center">
 <img src="https://cdn.discordapp.com/emojis/1155602041947820114.webp" height="16"> ・ A 16 Y/o IBDP Computer Science HL student<br>
-<img src="https://asahilinux.org/img/AsahiLinux_logomark.svg" height="16"> ・ Linux enthusiast: <s>Fedora</s> Asahi Linux!<br>
-<img src="https://cdn.discordapp.com/emojis/1037114798497865758.webp" height="16"> ・ CTF Hobbyist: Rev > Forensic > Pwn<br>
-<img src="https://cdn.discordapp.com/emojis/1037774961676398672.webp" height="16"> ・ sysadmin/soc wannabe (skip IT helpdesk <img src="https://cdn.discordapp.com/emojis/1190230683579330612.webp" height="16" alt="pls">)
+<img src="https://asahilinux.org/img/AsahiLinux_logomark.svg" height="16"> ・ Triple *Boo-ter! <s>Fedora</s> Asahi Linux / macOS / Windows 11 (riced++)<br>
+<img src="https://razvioverflow.github.io/images/CTF/icon.png" height="16"> ・ Obsessed \w [[Insecure]] Red Flags (are you?)<br>
+<img src="https://cdn.discordapp.com/emojis/1037774961676398672.webp" height="16"> ・ Malware Surgeon / SOC wannabe~ (no budget T-T)
 </div>
 
 <br>
 
-<p align="center">I open source some of my projects. Check those out!</p><br>
+<p align="center">See around if there's leaked config credentials on my repo! ;></p><br>
 
 <h2 align="center"><img src="https://cdn.discordapp.com/emojis/750352716399902763.gif" height="24"> Languages I work with</h2>
 
