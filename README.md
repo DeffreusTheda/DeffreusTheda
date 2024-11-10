@@ -4,7 +4,7 @@
 
 <!-- [![GitHub Follow](https://img.shields.io/github/followers/DeffreusTheda?style=social)](https://github.com/DeffreusTheda) -->
 
-<h1 align="center"><img src="https://transmemes.netlify.app/~media/menhera-chan/transparent/28070588.png" height="32" width="32"> Heya!</h1>
+<h1 align="center"><img src="https://transmemes.netlify.app/~media/menhera-chan/transparent/28070588.png" height="32"> Heya!</h1>
 
 <div align="center">
 <img src="https://cdn.discordapp.com/emojis/1155602041947820114.webp" height="16"> ・ A 16 Y/o IBDP Computer Science HL student<br>
