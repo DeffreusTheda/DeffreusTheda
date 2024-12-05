@@ -6,9 +6,9 @@
 
 <h1 align="center"><img src="https://transmemes.netlify.app/~media/menhera-chan/transparent/28070588.png" height="32"> Heya!</h1>
 
+<!-- Sometimes I wonder, how much my life is made to conform to others. The thing is, it's making me sick. I hate my IRL identity. So. Much. -->
 <div align="center">
-<img src="https://cdn.discordapp.com/emojis/1155602041947820114.webp" height="16"> ・ A 17 Y/o IBDP Computer Science HL student<br>
-<img src="https://asahilinux.org/img/AsahiLinux_logomark.svg" height="16"> ・ Triple *Boo-ter! <s>Fedora</s> Asahi Linux / macOS / Windows 11 (riced++)<br>
+<img src="https://asahilinux.org/img/AsahiLinux_logomark.svg" height="16"> ・ <s>Fedora</s> Asahi Linux / macOS / Windows 11 (riced++)<br>
 <img src="https://razvioverflow.github.io/images/CTF/icon.png" height="16"> ・ Obsessed \w [[Insecure]] Red Flags (are you?)<br>
 <img src="https://cdn.discordapp.com/emojis/1037774961676398672.webp" height="16"> ・ Malware Surgeon / SOC wannabe~ (no budget T-T)
 </div>
@@ -97,5 +97,3 @@
   <a href="https://discordapp.com/users/759198715159511070"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord Profile" alt="Discord"></a>
   <a href="mailto:thedadeffreus@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" title="Proton Mail" alt="Proton"></a>
 </div>
-
-###### * Windy is on Parallels Desktop :P
