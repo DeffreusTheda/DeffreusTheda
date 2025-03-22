@@ -1,37 +1,31 @@
-<!-- <div align="center">
-  <img alt="DeffreusTheda Banner" src="https://github.com/DeffreusTheda/DeffreusTheda/assets/147963726/a0c8a775-bf80-4b62-8cbf-4e5584b6f14a" style="width: 35vw; border: 5px solid #555; margin-left: auto; margin-right: auto; align: center">
-</div> -->
+<h1 align="center"><img src="https://transmemes.netlify.app/~media/menhera-chan/transparent/28070588.png" height="32"> Heyaaa!</h1>
 
-<!-- [![GitHub Follow](https://img.shields.io/github/followers/DeffreusTheda?style=social)](https://github.com/DeffreusTheda) -->
-
-<h1 align="center"><img src="https://transmemes.netlify.app/~media/menhera-chan/transparent/28070588.png" height="32"> Heya!</h1>
-
-<!-- Sometimes I wonder, how much my life is made to conform to others. The thing is, it's making me sick. I hate my IRL identity. So. Much. -->
 <div align="center">
-<img src="https://asahilinux.org/img/AsahiLinux_logomark.svg" height="16"> ・ <s>Fedora</s> Asahi Linux / macOS / Windows 11 (riced++)<br>
-<img src="https://razvioverflow.github.io/images/CTF/icon.png" height="16"> ・ Obsessed \w [[Insecure]] Red Flags (are you?)<br>
-<img src="https://cdn.discordapp.com/emojis/1037774961676398672.webp" height="16"> ・ Malware Surgeon / SOC wannabe~ (no budget T-T)
+<img src="https://asahilinux.org/img/AsahiLinux_logomark.svg" height="16"> ・ macOS is just Linux with pricier wardrobe<br>
+<img src="https://razvioverflow.github.io/images/CTF/icon.png" height="16"> ・ *<i>Obsessed</i>* \w [[Insecure]] {{c2::Red Flags}}<br>
+<img src="https://cdn.discordapp.com/emojis/1037774961676398672.webp" height="16"> ・ Malware Surgeon wannabe
 </div>
-
-<br>
-
-<p align="center">See around if there's leaked config credentials on my repo! ;></p><br>
-
-<h2 align="center"><img src="https://cdn.discordapp.com/emojis/750352716399902763.gif" height="24"> Languages I work with</h2>
+  
+<p align="center">See around if there's leaked config credentials on my repo! ;></p>
+  
+<h2 align="center">Languages I work with <img src="https://media.discordapp.net/stickers/1112173323246383155.webp?size=320&quality=lossless" height="24"></h2>
 
 <table align="center">
   <tr align="center">
     <th>
-      <a href="https://github.com/DeffreusTheda/CoffeeShopProject"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;</a>
+      <a href="https://github.com/DeffreusTheda/CoffeeShopProject"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;</a>
     </th>
     <th>
-      <a href="https://github.com/DeffreusTheda/Competitive-Programming"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;</a>
+      <a href="https://github.com/DeffreusTheda/Competitive-Programming"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;</a>
     </th>
     <th>
-      <a href="https://github.com/DeffreusTheda/CTF"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="80" height="80">&nbsp;</a>
+      <a href="https://github.com/DeffreusTheda/CTF"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"  title="Python" alt="Python" width="80" height="80">&nbsp;</a>
     </th>
     <th>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80">&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80">&nbsp;
+    </th>
+    <th>
+      <img src="https://rustacean.net/assets/rustacean-flat-happy.png" title="Rust" alt="Rust" height="80">&nbsp;
     </th>
   </tr>
   <tr align="center">
@@ -39,10 +33,11 @@
     <td>6/2023 - 2/2024</td>
     <td>11/2023 - Now</td>
     <td>2/2024 - Now</td>
+    <td>3/2025 - Now</td>
   </tr>
 </table>
 
-<h2 align="center">My system <img src="https://cdn.discordapp.com/emojis/880465574730297344.gif" height="24" width="24"></h2>
+<h2 align="center"><img src="https://media.discordapp.net/stickers/998683820796690492.webp?size=1280&quality=lossless" height="24"> My system</h2>
 
 <table align="center">
   <tr align="center">
@@ -50,17 +45,22 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" title="macOS" alt="macOS" height="80"/>&nbsp;
     </th>
     <th>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="80" height="80"/>&nbsp;
     </th>
     <th>
-      <img src="https://github.com/AsahiLinux/artwork/blob/main/logos/svg/AsahiLinux_logomark.svg" title="Asahi" alt="Asahi" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="Fedora" alt="Fedora" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/AsahiLinux/artwork/80d14f8b6f485b310e305a84b4b806361518ddd1/logos/svg/AsahiLinux_logomark.svg" title="Asahi" alt="Asahi" width="80" height="80"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/fedora/fedora-plain.svg" title="Fedora" alt="Fedora" width="80" height="80"/>&nbsp;
+    </th>
+    <th>
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/4c/28/624c283c-e3ea-762c-b283-096c8ff3563b/Parallels.png/1200x630bb.png" title="Parallels" alt="Parallels" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/DeffreusTheda/PublicFiles/blob/main/windows-11-icon-logo-png_seeklogo-406208.png?raw=true" title="Windows" alt="Windows" width="80" height="80"/>&nbsp;
     </th>
   </tr>
   <tr align="center">
-    <td>6/2023 - 7/2024</td>
+    <td>6/2023 - 7/2024<br>12/2024 - Now</td>
     <td>12/2023 - 2/2024</td>
-    <td>2/2024 - Now</td>
+    <td>2/2024 - 11/2024</td>
+    <td>12/2024 - Now</td>
   </tr>
 </table>
 
@@ -75,24 +75,21 @@
 
 <hr>
 
-<h2 align="center"><img src="https://cdn.discordapp.com/emojis/860569859627417620.webp" height="24" width="24"> BFFs</h2>
+<h2 align="center">BFFs <img src="https://media.discordapp.net/stickers/1112135891943706674.webp?size=1280&quality=lossless" height="24" width="24"></h2>
 
 <div align="center">
   <img src="https://helix-editor.com/logo.svg" title="Helix" alt="Helix" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" title="kitty" alt="kitty" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/>
-  <img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" title="kitty" alt="kitty" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="20" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Wayland_Logo.svg" title="wayland" alt="wayland" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/DeffreusTheda/PublicFiles/blob/main/logo.png" title="hyprland" alt="hyprland" width="40" height="40"/>&nbsp;
+  <img src="https://forum.obsidian.md/uploads/default/original/3X/a/9/a9a34885821fff8941270ccd6e2ca923c83801b2.png" title="Obsidian" alt="Obsidian" width="40" height="40"/>
+  <img src="https://i.redd.it/fka0b5cc48t41.png" title="Anki" alt="Anki" width="40" height="40"/>
 </div>
-
-<br>
-
-<h2 align="center">Poke me <img src="https://cdn.discordapp.com/emojis/747234665559097384.webp" height="24" width="24"></h2>
+  
+<h2 align="center"><img src="https://media.discordapp.net/stickers/998664647056048278.webp?size=1280&quality=lossless" height="24" width="24"> OSINT me</h2>
 
 <div align="center">
+  <a href="https://deffreus.vercel.app/"><img src="https://img.shields.io/badge/Blogs-2e3861?style=for-the-badge&logo=hugo&logoColor=7a79d4" title="Github Profile" alt="Github"></a>
   <a href="https://github.com/DeffreusTheda/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github Profile" alt="Github"></a>
   <a href="https://discordapp.com/users/759198715159511070"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord Profile" alt="Discord"></a>
   <a href="mailto:thedadeffreus@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" title="Proton Mail" alt="Proton"></a>
